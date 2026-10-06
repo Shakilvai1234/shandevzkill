@@ -17,6 +17,16 @@
       "password": "jahid2026",
       "domain": "",
       "hash": ""
+ }
+  ],
+  "radifa2026": [
+    {
+      "User": "radifa2026",
+      "app_name": "radifa",
+      "status": "online",
+      "password": "jahid2026",
+      "domain": "",
+      "hash": ""
     }
   ]
 }
